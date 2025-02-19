@@ -20,9 +20,9 @@ Each project is stored in its own directory, following this structure:
 Each project has a `README.md` with an overview of the project, instructions to run it, and any dependencies required.
 
 ## 🔧 Requirements
-To run these projects, ensure you have Python installed. You can check your Python version using:
+To run these projects, ensure you have Python3 installed. You can check your Python version using:
 ```sh
-python --version
+python3 --version
 ```
 You may also need additional dependencies, which can be installed using:
 ```sh
