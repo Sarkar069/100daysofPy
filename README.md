@@ -52,7 +52,7 @@ pip install -r requirements.txt
    ```
 3. Run the script:
    ```sh
-   python main.py
+   python3 main.py
    ```
 
 ## 🤝 Contributing
