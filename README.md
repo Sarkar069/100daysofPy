@@ -5,7 +5,7 @@ Welcome to the **100 Python Projects** repository! 🚀 This repo is a collectio
 ## 📂 Project Structure
 Each project is stored in its own directory, following this structure:
 ```
-100-python-projects/
+100daysofPy/
 │-- Day1/
 │   ├── main.py
 │   ├── README.md
